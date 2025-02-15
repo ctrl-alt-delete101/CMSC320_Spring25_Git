@@ -10,3 +10,9 @@ Answer: Data science can be applied to computer vision. In robotics
 we need to be able to analyze image data and filter this data for us to 
 make predictions and understand our surrounding. This can then be used
 for robotic acutation sequences and what not.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging combines branches and in doing so preserves the history,
+however rebasing rewrites history by moving commits to the beginning of
+another branch
