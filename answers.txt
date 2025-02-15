@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to computer vision. In robotics 
+we need to be able to analyze image data and filter this data for us to 
+make predictions and understand our surrounding. This can then be used
+for robotic acutation sequences and what not.
